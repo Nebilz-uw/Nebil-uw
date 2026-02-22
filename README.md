@@ -1,89 +1,69 @@
 # Hi there! 👋 I'm Nebil Zeleke
 
-I'm an Informatics student at the University of Washington who’s passionate about building reliable, consumer-centric products across full-stack engineering and applied ML.
+I’m an Informatics student at the University of Washington building consumer-centric products across full-stack engineering and applied ML. I care about shipping clean UX backed by reliable systems.
+
+**Quick links:** [LinkedIn](https://www.linkedin.com/in/nebil-zeleke/) • NebilZ@uw.edu • Resume (add link) • GitHub (you’re here)
 
 ---
 
-## Get to know me
-
-- 🎓 UW Informatics (B.S.), Expected June 2027  
-- 🧠 Interested in full-stack systems, backend reliability, and practical AI
-- 🛠️ Built projects with React, Spring Boot, Node/Flask, and modern tooling
-- 🏆 GPA 4.0 • Washington State Opportunity Scholar • Phi Theta Kappa
-- 🤝 Enjoy collaborating with stakeholders and shipping iteratively
-- 📫 Contact me: **[linkedin.com/in/nebil-zeleke](https://www.linkedin.com/in/nebil-zeleke/)** • **NebilZ@uw.edu**
-
----
-
-## Education
-
-**University of Washington — The Information School** (Seattle, WA)  
-**B.S. in Informatics** — *Expected June 2027*  
-Relevant coursework: Data Structures & Algorithms, Software Design & Implementation, Computer Architecture
+## TL;DR
+- 🎓 UW Informatics (B.S.), Expected June 2027 • GPA 4.0  
+- 🛠️ React + TypeScript, Spring Boot, Python/Flask, Postgres, Docker, AWS/GCP  
+- 🧠 Interests: backend reliability, product engineering, practical AI/ML
 
 ---
 
 ## Experience highlights
 
 ### Google — Software Engineering Intern (AI Generated Language Translation)
-- Reduced weekly dashboard errors by **27%** by fixing duplicate-suggestion and missing-entry bugs  
-- Improved coverage and reliability using **Python, PostgreSQL, Angular/TypeScript**, and monitoring (e.g., fewer alerts)
+- Reduced weekly dashboard errors by **27%** by fixing duplicate-suggestion + missing-entry defects
+- Improved machine-suggestion coverage to **100%** and stabilized alerts with better validation + monitoring  
+**Tech:** Python, PostgreSQL, Angular/TypeScript
 
 ### Netflix — Software Engineering Extern (Membership & Payments)
-- Improved API performance and reliability through backend-focused changes and testing
-- Contributed to safer releases via CI/CD automation and engineering best practices
-
-> If you want, drop your exact Netflix bullets here and I’ll rewrite them to match your strongest metrics.
+- Strengthened API reliability/performance and improved release safety through test + CI/CD contributions  
+**Tech:** (add your exact stack if you want)
 
 ---
 
-## Some projects I’ve worked on
+## Projects 
 
 ### Wander — AI habit analysis & future behavior prediction
-Offline, real-time AI assistant with a web dashboard focused on behavioral insights and predictions.  
-- **UI:** React, TypeScript, TailwindCSS  
-- **API/ML:** Flask/Python, fine-tuning with LoRA, RAG-style context using user activity logs  
-- Links: **[Codebase](#)** • **[Demo](#)** • **[Write-up](#)**
+ Offline AI assistant that turns activity logs into insights + behavior predictions.  
+- Built a **React + Flask** dashboard and a RAG-style context pipeline using user activity logs
+- Fine-tuned **Falcon-1B** with **LoRA adapters** for fast local inference  
+**Tech:** React, TypeScript, Tailwind, Python, Flask, LoRA  
 
-### Megym — fitness + AI coaching
-Fitness tracker + AI chatbot experience for planning and adherence.  
-- **UI:** Next.js/React, TypeScript  
-- **API/Data:** Postgres, Prisma (and/or your current stack)  
-- Links: **[Codebase](#)** • **[Demo](#)**
 
-### ClubConnect — UW RSO discovery / database redesign
-Platform concept for helping students browse, search, and manage RSO info with a modern stack.  
-- **UI:** React  
-- **API:** Spring Boot (JWT/auth if applicable)  
-- Links: **[Codebase](#)** • **[Demo](#)**
+
+### ClubConnect — UW RSO discovery platform
+** Searchable RSO directory to help students discover communities faster.  
+- Built browsing + filtering UX and a backend API for structured club data  
+**Tech:** React, Spring Boot (edit if needed)  
+
 
 ### iSchool Advising Bot (Capstone)
-Team project integrating an advising assistant into real student workflows (Teams + AI).  
-- Focus: UX + stakeholder alignment + constraints/limitations + MVP scope  
-- Links: **[Repo](#)** • **[Design docs](#)**
+**One-liner:** AI-powered advising assistant designed around real student advising workflows.  
+- Focused on scoping, UX decisions, and stakeholder feedback loops  
 
 ---
 
 ## Leadership & community
 
-**Student Alumni Ambassador — UW Alumni Association** (Sept 2024 – Present)  
-- Co-led “Alumni Connect Kickoff” with **150+ students** and **20 alumni**; increased first-time attendees by **45%**  
-- Gathered feedback from NSBE, BINFO, and WINFO; helped launch a monthly “Husky Voices” speaker series  
-- Boosted alumni engagement by **60% YoY** through outreach and promotion
+**UW Alumni Association — Student Alumni Ambassador**
+- Co-led a campus event with **150+ students** and **20 alumni**, increasing first-time attendance by **45%**
+- Improved alumni engagement by **60% YoY** via outreach and promotion
 
 ---
 
-## I’m familiar with
+## Skills
 
 **Languages:** Java, Python, JavaScript, HTML/CSS, R  
-**Frameworks/Libraries:** Spring Boot, React, Node.js, Flask, Angular, FastAPI, TailwindCSS, pandas, NumPy  
-**Tools:** Linux/Unix, Git, Docker, AWS, GCP, VS Code, PyCharm, IntelliJ, CI/CD
+**Frameworks:** React, Spring Boot, Flask, Node.js, Angular, FastAPI  
+**Tools:** Git, Docker, Postgres, AWS, GCP, Linux/Unix, CI/CD
 
 ---
 
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/nebil-zeleke/
-- Resume: (add link)  
-- GitHub: (you’re here 😄)
-
+## Contact
+📫 NebilZ@uw.edu  
+🔗 https://www.linkedin.com/in/nebil-zeleke/
