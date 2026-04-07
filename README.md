@@ -32,19 +32,20 @@ I’m an Informatics student at the University of Washington building consumer-c
  Offline AI assistant that turns activity logs into insights + behavior predictions.  
 - Built a **React + Flask** dashboard and a RAG-style context pipeline using user activity logs
 - Fine-tuned **Falcon-1B** with **LoRA adapters** for fast local inference  
-**Tech:** React, TypeScript, Tailwind, Python, Flask, LoRA  
+**Tech:** React, TypeScript, Tailwind, Python, Flask, LoRA
+  
 
+### AdvisorLab — UW iSchool Advising Bot (Capstone)
+- Student-facing chatbot that reduces advising back-and-forth by answering degree-planning questions from official iSchool sources.  
+- Implemented a RAG-style approach using a curated knowledge base of advising materials  
+- Added trust features: citations, “last updated,” and escalation paths for high-stakes/ambiguous requests  
+- Owned user testing materials (script + tasks) to validate accuracy, trust, and escalation behavior
 
 
 ### ClubConnect — UW RSO discovery platform
 ** Searchable RSO directory to help students discover communities faster.  
 - Built browsing + filtering UX and a backend API for structured club data  
 **Tech:** React, Spring Boot (edit if needed)  
-
-
-### iSchool Advising Bot (Capstone)
-**One-liner:** AI-powered advising assistant designed around real student advising workflows.  
-- Focused on scoping, UX decisions, and stakeholder feedback loops  
 
 ---
 
