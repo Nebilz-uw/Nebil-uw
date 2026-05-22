@@ -28,17 +28,17 @@ I’m an Informatics student at the University of Washington building consumer-c
 
 ## Projects 
 
+### AdvisorLab — UW iSchool Advising Bot (Capstone)
+**One-liner:** Advising chatbot that answers degree-planning questions from official iSchool sources with citations and safe escalation.  
+- Implemented a **RAG-style** approach over curated advising materials to produce grounded answers instead of generic chatbot responses  
+- Added trust + safety behaviors: **citations, “last updated,” clarifying questions**, and **escalation** for high-stakes cases (exceptions, overrides, graduation confirmation)  
+- Owned early evaluation: created **user testing script + benchmark tasks** to measure accuracy, trust, and escalation quality  
+
 ### Wander — AI habit analysis & future behavior prediction
  Offline AI assistant that turns activity logs into insights + behavior predictions.  
 - Built a **React + Flask** dashboard and a RAG-style context pipeline using user activity logs
 - Fine-tuned **Falcon-1B** with **LoRA adapters** for fast local inference  
 **Tech:** React, TypeScript, Tailwind, Python, Flask, LoRA
-  
-### AdvisorLab — UW iSchool Advising Bot (Capstone)
-- Student-facing chatbot that reduces advising back-and-forth by answering degree-planning questions from official iSchool sources.  
-- Implemented a RAG-style approach using a curated knowledge base of advising materials  
-- Added trust features: citations, “last updated,” and escalation paths for high-stakes/ambiguous requests  
-- Owned user testing materials (script + tasks) to validate accuracy, trust, and escalation behavior
 
 ### ClubConnect — UW RSO discovery platform
 ** Searchable RSO directory to help students discover communities faster.  
