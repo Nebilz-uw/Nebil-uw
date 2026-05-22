@@ -29,7 +29,7 @@ I’m an Informatics student at the University of Washington building consumer-c
 ## Projects 
 
 ### AdvisorLab — UW iSchool Advising Bot (Capstone)
-**One-liner:** Advising chatbot that answers degree-planning questions from official iSchool sources with citations and safe escalation.  
+ Advising chatbot that answers degree-planning questions from official iSchool sources with citations and safe escalation.  
 - Implemented a **RAG-style** approach over curated advising materials to produce grounded answers instead of generic chatbot responses  
 - Added trust + safety behaviors: **citations, “last updated,” clarifying questions**, and **escalation** for high-stakes cases (exceptions, overrides, graduation confirmation)  
 - Owned early evaluation: created **user testing script + benchmark tasks** to measure accuracy, trust, and escalation quality  
