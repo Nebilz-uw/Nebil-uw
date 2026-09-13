@@ -1,19 +1,24 @@
 # Hi there! 👋 I'm Nebil Zeleke
 
-I’m an Informatics student at the University of Washington building consumer-centric products across full-stack engineering and applied ML. I care about shipping clean UX backed by reliable systems.
+I’m an Computer Science student at the University of Washington building consumer-centric products across full-stack engineering and applied ML. I care about shipping clean UX backed by reliable systems.
 
 **Quick links:** [LinkedIn](https://www.linkedin.com/in/nebil-zeleke/) • NebilZ@uw.edu • Resume (add link) • GitHub (you’re here)
 
 ---
 
 ## TL;DR
-- 🎓 UW Informatics (B.S.), Expected June 2027 • GPA 4.0  
+- 🎓 Computer Science (B.S.), Expected June 2027 • GPA 4.0  
 - 🛠️ React + TypeScript, Spring Boot, Python/Flask, Postgres, Docker, AWS/GCP  
 - 🧠 Interests: backend reliability, product engineering, practical AI/ML
 
 ---
 
 ## Experience highlights
+
+### Microsoft — Software Engineering Intern, Copilot AI Platforms
+- Increased weekly active **Agency in Teams** CLI/Bot users by **48.5%**, from **4,100 to 6,090**, by analyzing product telemetry, identifying user cohorts, and delivering targeted prompts and workflows
+- Built a standardized recommendation pipeline for **5+ high-usage cohorts** and shipped a feature-flagged end-to-end recommendation experience with opt-out support and action telemetry  
+**Tech:** TypeScript, C#, Kusto, telemetry & experimentation systems
 
 ### Google — Software Engineering Intern (AI Generated Language Translation)
 - Reduced weekly dashboard errors by **27%** by fixing duplicate-suggestion + missing-entry defects
